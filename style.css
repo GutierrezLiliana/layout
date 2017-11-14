@@ -52,7 +52,7 @@ border: 2px solid black
 	    width:100vw;
 	}
     .right{
-		height:30vh;
+		height:50vh;
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap; 
