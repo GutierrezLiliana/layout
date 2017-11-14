@@ -48,7 +48,7 @@ border: 2px solid black
 }
 @media screen and (max-width: 800px){
 	.left{
-		height:30vh;
+		height:50vh;
 	    width:100vw;
 	}
     .right{
