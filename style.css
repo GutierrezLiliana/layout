@@ -25,24 +25,24 @@ body{
 
 .limegreen {
 	background-color: limegreen;
-	width: 25%;
-  	height: 25%;
+	width: 50%;
+  	height: 50%;
 }
 
 .green{
 	background-color: green;
-	width: 25%;
-  	height: 25%;
+	width: 50%;
+  	height: 50%;
 }
 .mediumseagreen{
 	background-color:mediumseagreen;
-	width: 25%;
-  	height: 25%;
+	width: 50%;
+  	height: 50%;
 }
 .mediumspringgreen{
 	background-color:mediumspringgreen;
-	width: 25%;
-  	height: 25%;
+	width: 50%;
+  	height: 50%;
 }
 @media screen and (max-width: 800px){
 	.left{
