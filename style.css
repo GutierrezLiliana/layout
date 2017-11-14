@@ -6,13 +6,13 @@ body{
 }
 
 .left { 
-	height:100vh;
+	height:50vh;
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
 }
 .right { 
-	height:100vh;
+	height:50vh;
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
